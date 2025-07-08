@@ -25,4 +25,4 @@ How To Install
 
 7. do step 5
 
-8. if some of this doesnt work please contact me and i might be able to help you
+8. if some of this doesnt work please contact me and I might be able to help you
